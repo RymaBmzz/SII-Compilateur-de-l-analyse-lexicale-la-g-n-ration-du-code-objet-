@@ -1,4 +1,4 @@
-# SII-Compilateur-de-l-analyse-lexicale-la-g-n-ration-du-code-objet-
+# SII-Compilateur (Analyse-lexicale jusqu'a la generation du code objet)
 Réalisation d'un mini compilateur pour le langage Tiny-Language
 
 Construction  d'un compilateur pour un langage « TinyLanguage ».
