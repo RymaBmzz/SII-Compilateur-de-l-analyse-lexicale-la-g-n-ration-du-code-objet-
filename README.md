@@ -1,4 +1,4 @@
-# SII-Compilateur (Analyse-lexicale jusqu'a la generation du code objet)
+# SII-Compilateur en utilisant ANTLR (jusqu'a la generation du code objet)
 Réalisation d'un mini compilateur pour le langage Tiny-Language
 
 Construction  d'un compilateur pour un langage « TinyLanguage ».
