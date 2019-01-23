@@ -1,0 +1,8 @@
+Mov Ax ,3
+Add Ax ,2
+Mov temp1, Ax
+Mov a,temp1
+Mov Ax ,i
+Add Ax ,b
+Mov temp2, Ax
+Mov b,temp2

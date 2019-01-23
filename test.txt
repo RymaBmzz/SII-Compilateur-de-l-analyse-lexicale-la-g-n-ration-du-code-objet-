@@ -1,0 +1,22 @@
+compil test()
+ {
+   intcompil a,b,id,i,i;
+   floatcompil s,som,moy;
+   start
+     printcompil("Bienvenue dans notre projet");
+   id = ((((a + b) * 2) - 1)/5);
+   id = a;
+   id = som;
+   som = 5 + 1;
+   moy = som / 0;
+   b = x + 1;
+   b = (a * 2) + (4 + id);
+   if(id > 2.5) then
+     moy = ((som + s)* 2.5);
+   else
+    som = som + s;
+    s = (s + 2.5)/2.6;
+    b = (a + 22 * 6 / 13)/(13 + 4 - a * id);
+   endif;
+
+ }
